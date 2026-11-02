@@ -1,0 +1,13 @@
+# Vazifalar
+- [ ] Vercelga to‘liq ko‘chirish: sozlamalarni tayyorlash; yangi ma’lumotlar xizmati va Vercelga kirish foydalanuvchidan kutilmoqda
+- [x] Qo‘shiqni bosish bilan ijro etish va tugmalarni barcha dizaynlarda ko‘rsatish
+- [x] Vaqtni 24 soatda kiritish va alohida xarita havolasi
+- [x] Telegram javob va buyurtma yetkazilishini tekshirish
+- [x] Login/parol (mirziyokamolov) /yaratish va /admin uchun
+- [x] Yaratishda rasmlarni almashtirish/qo'shish/o'chirish (asosiy + galereya)
+- [x] Qo'shiq yuklash imkoniyati
+- [x] Tayyor taklifnomada "Studio" havolasini yashirish
+- [x] Telegram bot ulandi, webhook ro'yxatdan o'tdi (@MirziyoniSaytindanYaratBot)
+- [x] Rasm/qo‘shiq mehmonlarga sayt orqali ko‘rsatiladi
+- [x] Mehmon javoblari saqlanadi va botga keladi
+- [x] Taklifnoma dizaynini tanlash (5 rang)
